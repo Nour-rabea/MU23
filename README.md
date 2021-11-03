@@ -1,2 +1,3 @@
 - Leaflet Map https://nour-rabea.github.io/New-Capital-Commercial/
-- Google Sheets template https://docs.google.com/spreadsheets/d/18K2WPL5UwCHUUxUdfVBOpu68HtrhT0Zr9zxZHZ5LodU/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/e/2PACX-1vRR6xges7EJq2SCPw6YXz9WPMBZ17NpAh2o7lHrOSZ7qO0o1ywTaLBqGYVdFPW9LAPYeMZq2159t3uM/pubhtml
+- 
