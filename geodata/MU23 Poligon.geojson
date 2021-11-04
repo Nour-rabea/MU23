@@ -1,1 +1,1224 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6787608,30.0257658,0],[31.6782405,30.0247927,0],[31.6788735,30.0245791,0],[31.6794689,30.0256241,0],[31.679182,30.0257573,0],[31.6787608,30.0257658,0]]]},"properties":{"name":"ITC NEW CAPITAL\n","description":"Dahab Development"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6797184,30.0260848,0],[31.679477,30.026173,0],[31.6789727,30.0261568,0],[31.6787823,30.0257852,0],[31.6791792,30.0257782,0],[31.679477,30.0256459,0],[31.6797184,30.0260848,0]]]},"properties":{"name":"Aventra Mall\n","description":"Emtelak"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6791658,30.0266431,0],[31.6789781,30.026181,0],[31.6794662,30.0261949,0],[31.679713,30.0261067,0],[31.6799249,30.026534,0],[31.6791658,30.0266431,0]]]},"properties":{"name":"MARVEL MALL\n","description":"Locations Development"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6794233,30.0273403,0],[31.679257,30.0268271,0],[31.6800376,30.0267435,0],[31.6802065,30.0272335,0],[31.6794233,30.0273403,0]]]},"properties":{"name":"Discovery Mall\n","description":"Misr Alhurra"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6795603,30.0278619,0],[31.6794396,30.0273627,0],[31.6801986,30.0272651,0],[31.6803193,30.0278132,0],[31.6795603,30.0278619,0]]]},"properties":{"name":"EAST SIDE\n","description":"Castle Development"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6799023,30.0287951,0],[31.679744,30.0282052,0],[31.6810207,30.0281866,0],[31.68123,30.0287091,0],[31.6799023,30.0287951,0]]]},"properties":{"name":"LINX By\n","description":"Capriole developments"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6828624,30.028581,0],[31.683069,30.0292312,0],[31.6819639,30.0292591,0],[31.6817761,30.0286553,0],[31.6828624,30.028581,0]]]},"properties":{"name":"Ivory Plaza Mall\n","description":"Al Tamayoz"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6764843,30.0256644,0],[31.6761491,30.0245776,0],[31.6767096,30.024566,0],[31.67712,30.024782,0],[31.6773292,30.0251234,0],[31.6775921,30.0255739,0],[31.6764843,30.0256644,0]]]},"properties":{"name":"Spark mall\n","description":"brouq"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6776236,30.0256104,0],[31.6778784,30.0260795,0],[31.6770416,30.0261422,0],[31.6768726,30.0256522,0],[31.6776236,30.0256104,0]]]},"properties":{"name":"MCC Mall\n","description":"Al Assema Real Estate"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6781413,30.0266153,0],[31.6774493,30.0266502,0],[31.6772937,30.0261602,0],[31.6778865,30.0261021,0],[31.6781413,30.0266153,0]]]},"properties":{"name":"River Green\n","description":"MBG"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6759716,30.0269005,0],[31.6761532,30.027401,0],[31.675602,30.0274764,0],[31.6754272,30.0269376,0],[31.6759716,30.0269005,0]]]},"properties":{"name":"G3 Mall\n","description":"United Development"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6757736,30.0280198,0],[31.6756181,30.0275089,0],[31.676742,30.0273556,0],[31.6769485,30.0280151,0],[31.6757736,30.0280198,0]]]},"properties":{"name":"Capital Prime Mall\n","description":"Royal Development"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6772543,30.0280221,0],[31.6769914,30.0273719,0],[31.678531,30.0272372,0],[31.6788529,30.0279943,0],[31.6772543,30.0280221,0]]]},"properties":{"name":"The Walk\n","description":"Constructa Real Estate"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6771333,30.028853,0],[31.6759934,30.0289737,0],[31.6758378,30.0282353,0],[31.6769321,30.0282028,0],[31.6771333,30.028853,0]]]},"properties":{"name":"Epic\n","description":"EGY Holding"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6789465,30.0287634,0],[31.6791235,30.0293788,0],[31.6776912,30.0294392,0],[31.677533,30.0288424,0],[31.6789465,30.0287634,0]]]},"properties":{"name":"Zaha Mall\n","description":"Home Town"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6793324,30.0302888,0],[31.6779913,30.0303538,0],[31.6778089,30.0298058,0],[31.67915,30.0297594,0],[31.6793324,30.0302888,0]]]},"properties":{"name":"Venulet Business Estate\n","description":"lagom Real Estate"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.681528687477112,30.032402255050865,0],[31.681416,30.0321021,0],[31.6811424,30.0319326,0],[31.6806703,30.031719,0],[31.6805496,30.0312777,0],[31.6821938,30.0310595,0],[31.6826659,30.0324156,0],[31.681528687477112,30.032402255050865,0]]]},"properties":{"name":"Paris mall‎\n","description":"Pyramids"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6818076,30.0342587,0],[31.6814428,30.0334413,0],[31.6814508,30.0332254,0],[31.6815448,30.0330907,0],[31.6816842,30.0329444,0],[31.6828161,30.0327911,0],[31.6834276,30.0341194,0],[31.6818076,30.0342587,0]]]},"properties":{"name":"PARIS EAST‎\n","description":"Pyramids"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6823736,30.0355023,0],[31.6821456,30.0350889,0],[31.6829663,30.0348544,0],[31.6832801,30.0354698,0],[31.6823736,30.0355023,0]]]},"properties":{"name":"OPAL business complex\n","description":"Rekaz Development"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6821432,30.0349958,0],[31.6818588,30.0343595,0],[31.6826903,30.034327,0],[31.6829103,30.0347914,0],[31.6821432,30.0349958,0]]]},"properties":{"name":"Golden Tower Mall\n","description":"شركة النصر المتحدة"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6804816,30.0349777,0],[31.6802563,30.0344204,0],[31.6810127,30.0344018,0],[31.6812487,30.0349127,0],[31.6804816,30.0349777,0]]]},"properties":{"name":"Aurora\n","description":"Doja Developments"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6832197,30.036915,0],[31.6828925,30.0362835,0],[31.6845018,30.0361906,0],[31.6849095,30.0368268,0],[31.6832197,30.036915,0]]]},"properties":{"name":"IRIS Mall\n","description":"Enmaa Development"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6846145,30.0374628,0],[31.6841585,30.0375092,0],[31.6840405,30.0374071,0],[31.683842,30.0373838,0],[31.6836221,30.0373838,0],[31.6832788,30.0370263,0],[31.6835309,30.0369705,0],[31.6843302,30.036952,0],[31.6846145,30.0374628,0]]]},"properties":{"name":"FRONTGATE\n","description":"CCR Capital"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6842545,30.0375386,0],[31.6849036,30.0375107,0],[31.6850645,30.0379426,0],[31.6846354,30.0379472,0],[31.6845442,30.0377893,0],[31.6844208,30.0376547,0],[31.6842545,30.0375386,0]]]},"properties":{"name":"Tiffany Mall\n","description":"Pillarz Properties"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6827042,30.0375233,0],[31.6827686,30.037644,0],[31.6828222,30.0377369,0],[31.6827364,30.0379041,0],[31.6825164,30.0380341,0],[31.681744,30.0381084,0],[31.6815025,30.0376022,0],[31.6827042,30.0375233,0]]]},"properties":{"name":"Elite Mall\n","description":"SAK"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6814918,30.037579,0],[31.6813094,30.0370728,0],[31.6823662,30.0370403,0],[31.6826559,30.0374908,0],[31.6814918,30.037579,0]]]},"properties":{"name":"Souq El Dahab\n","description":"IC Group"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6844208,30.0369521,0],[31.6850377,30.0369149,0],[31.6852523,30.037384,0],[31.6846676,30.0374304,0],[31.6844208,30.0369521,0]]]},"properties":{"name":"new wave"}},{"type":"Feature","geometry":{"type":"Polygon","coordinates":[[[31.6866515,30.0359653,0],[31.6855035,30.0360791,0],[31.6852889,30.0356077,0],[31.6864021,30.0355148,0],[31.6866515,30.0359653,0]]]},"properties":{"name":"Amron development"}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6787608,
+              30.0257658,
+              0
+            ],
+            [
+              31.6782405,
+              30.0247927,
+              0
+            ],
+            [
+              31.6788735,
+              30.0245791,
+              0
+            ],
+            [
+              31.6794689,
+              30.0256241,
+              0
+            ],
+            [
+              31.679182,
+              30.0257573,
+              0
+            ],
+            [
+              31.6787608,
+              30.0257658,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "ITC NEW CAPITAL\n",
+        "description": "Dahab Development",
+        "Brochure": "https://drive.google.com/file/d/19VMC3VXE0J4n3-pX8wmIOW03scHsib5Q/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6797184,
+              30.0260848,
+              0
+            ],
+            [
+              31.679477,
+              30.026173,
+              0
+            ],
+            [
+              31.6789727,
+              30.0261568,
+              0
+            ],
+            [
+              31.6787823,
+              30.0257852,
+              0
+            ],
+            [
+              31.6791792,
+              30.0257782,
+              0
+            ],
+            [
+              31.679477,
+              30.0256459,
+              0
+            ],
+            [
+              31.6797184,
+              30.0260848,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Aventra Mall\n",
+        "description": "Emtelak",
+        "Brochure": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6791658,
+              30.0266431,
+              0
+            ],
+            [
+              31.6789781,
+              30.026181,
+              0
+            ],
+            [
+              31.6794662,
+              30.0261949,
+              0
+            ],
+            [
+              31.679713,
+              30.0261067,
+              0
+            ],
+            [
+              31.6799249,
+              30.026534,
+              0
+            ],
+            [
+              31.6791658,
+              30.0266431,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "MARVEL MALL\n",
+        "description": "Locations Development"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6794233,
+              30.0273403,
+              0
+            ],
+            [
+              31.679257,
+              30.0268271,
+              0
+            ],
+            [
+              31.6800376,
+              30.0267435,
+              0
+            ],
+            [
+              31.6802065,
+              30.0272335,
+              0
+            ],
+            [
+              31.6794233,
+              30.0273403,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Discovery Mall\n",
+        "description": "Misr Alhurra",
+        "Brochure": "https://drive.google.com/file/d/1-eJZlpsJOyKkVLeaqXBCy7XKkzFhbSzk/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6795603,
+              30.0278619,
+              0
+            ],
+            [
+              31.6794396,
+              30.0273627,
+              0
+            ],
+            [
+              31.6801986,
+              30.0272651,
+              0
+            ],
+            [
+              31.6803193,
+              30.0278132,
+              0
+            ],
+            [
+              31.6795603,
+              30.0278619,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "EAST SIDE\n",
+        "description": "Castle Development",
+        "Brochure": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6799023,
+              30.0287951,
+              0
+            ],
+            [
+              31.679744,
+              30.0282052,
+              0
+            ],
+            [
+              31.6810207,
+              30.0281866,
+              0
+            ],
+            [
+              31.68123,
+              30.0287091,
+              0
+            ],
+            [
+              31.6799023,
+              30.0287951,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "LINX By\n",
+        "description": "Capriole developments",
+        "Brochure": "https://drive.google.com/file/d/1NpVDlh48e3tNEBDsgunA1ieQJ_rHcSYA/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6828624,
+              30.028581,
+              0
+            ],
+            [
+              31.683069,
+              30.0292312,
+              0
+            ],
+            [
+              31.6819639,
+              30.0292591,
+              0
+            ],
+            [
+              31.6817761,
+              30.0286553,
+              0
+            ],
+            [
+              31.6828624,
+              30.028581,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Ivory Plaza Mall\n",
+        "description": "Al Tamayoz",
+        "Brochure": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6764843,
+              30.0256644,
+              0
+            ],
+            [
+              31.6761491,
+              30.0245776,
+              0
+            ],
+            [
+              31.6767096,
+              30.024566,
+              0
+            ],
+            [
+              31.67712,
+              30.024782,
+              0
+            ],
+            [
+              31.6773292,
+              30.0251234,
+              0
+            ],
+            [
+              31.6775921,
+              30.0255739,
+              0
+            ],
+            [
+              31.6764843,
+              30.0256644,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Spark mall\n",
+        "description": "brouq",
+        "Brochure": "https://drive.google.com/file/d/1gv_PXeFyrQUa1qZEoVh0-g4tGBGTWerZ/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6776236,
+              30.0256104,
+              0
+            ],
+            [
+              31.6778784,
+              30.0260795,
+              0
+            ],
+            [
+              31.6770416,
+              30.0261422,
+              0
+            ],
+            [
+              31.6768726,
+              30.0256522,
+              0
+            ],
+            [
+              31.6776236,
+              30.0256104,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "MCC Mall\n",
+        "description": "Al Assema Real Estate",
+        "Brochure": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6781413,
+              30.0266153,
+              0
+            ],
+            [
+              31.6774493,
+              30.0266502,
+              0
+            ],
+            [
+              31.6772937,
+              30.0261602,
+              0
+            ],
+            [
+              31.6778865,
+              30.0261021,
+              0
+            ],
+            [
+              31.6781413,
+              30.0266153,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "River Green\n",
+        "description": "MBG",
+        "Brochure": "https://drive.google.com/file/d/1KDhq1SeCFGwuOyJ6eFa2iqN2Hq7h_29S/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6759716,
+              30.0269005,
+              0
+            ],
+            [
+              31.6761532,
+              30.027401,
+              0
+            ],
+            [
+              31.675602,
+              30.0274764,
+              0
+            ],
+            [
+              31.6754272,
+              30.0269376,
+              0
+            ],
+            [
+              31.6759716,
+              30.0269005,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "G3 Mall\n",
+        "description": "United Development",
+        "Brochure": "https://drive.google.com/file/d/1JmhHzBfSYvum4xjyaURfPznQTT7DemxD/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6757736,
+              30.0280198,
+              0
+            ],
+            [
+              31.6756181,
+              30.0275089,
+              0
+            ],
+            [
+              31.676742,
+              30.0273556,
+              0
+            ],
+            [
+              31.6769485,
+              30.0280151,
+              0
+            ],
+            [
+              31.6757736,
+              30.0280198,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Capital Prime Mall\n",
+        "description": "Royal Development",
+        "Brochure": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6772543,
+              30.0280221,
+              0
+            ],
+            [
+              31.6769914,
+              30.0273719,
+              0
+            ],
+            [
+              31.678531,
+              30.0272372,
+              0
+            ],
+            [
+              31.6788529,
+              30.0279943,
+              0
+            ],
+            [
+              31.6772543,
+              30.0280221,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "The Walk\n",
+        "description": "Constructa Real Estate",
+        "Brochure": "https://drive.google.com/file/d/1BtCPWJKU5zdZIavcZFeqEzDHpR72s6mL/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6771333,
+              30.028853,
+              0
+            ],
+            [
+              31.6759934,
+              30.0289737,
+              0
+            ],
+            [
+              31.6758378,
+              30.0282353,
+              0
+            ],
+            [
+              31.6769321,
+              30.0282028,
+              0
+            ],
+            [
+              31.6771333,
+              30.028853,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Epic\n",
+        "description": "EGY Holding",
+        "Brochure": "https://drive.google.com/file/d/1-YOqnh4hBUHwMHEFr_1RFNlaBZYXEWaC/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6789465,
+              30.0287634,
+              0
+            ],
+            [
+              31.6791235,
+              30.0293788,
+              0
+            ],
+            [
+              31.6776912,
+              30.0294392,
+              0
+            ],
+            [
+              31.677533,
+              30.0288424,
+              0
+            ],
+            [
+              31.6789465,
+              30.0287634,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Zaha Mall\n",
+        "description": "Home Town",
+        "Brochure": "https://drive.google.com/file/d/1Go5f8ijz2O-SK0nh2kK-ise9jYyv1yCx/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6793324,
+              30.0302888,
+              0
+            ],
+            [
+              31.6779913,
+              30.0303538,
+              0
+            ],
+            [
+              31.6778089,
+              30.0298058,
+              0
+            ],
+            [
+              31.67915,
+              30.0297594,
+              0
+            ],
+            [
+              31.6793324,
+              30.0302888,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Venulet Business Estate\n",
+        "description": "lagom Real Estate",
+        "Brochure": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.681528687477112,
+              30.032402255050865,
+              0
+            ],
+            [
+              31.681416,
+              30.0321021,
+              0
+            ],
+            [
+              31.6811424,
+              30.0319326,
+              0
+            ],
+            [
+              31.6806703,
+              30.031719,
+              0
+            ],
+            [
+              31.6805496,
+              30.0312777,
+              0
+            ],
+            [
+              31.6821938,
+              30.0310595,
+              0
+            ],
+            [
+              31.6826659,
+              30.0324156,
+              0
+            ],
+            [
+              31.681528687477112,
+              30.032402255050865,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Paris mall‎\n",
+        "description": "Pyramids",
+        "Brochure": "https://drive.google.com/file/d/1pyeT7xOvJlQYNJuw0DvIdq-Nqlc005Tj/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6818076,
+              30.0342587,
+              0
+            ],
+            [
+              31.6814428,
+              30.0334413,
+              0
+            ],
+            [
+              31.6814508,
+              30.0332254,
+              0
+            ],
+            [
+              31.6815448,
+              30.0330907,
+              0
+            ],
+            [
+              31.6816842,
+              30.0329444,
+              0
+            ],
+            [
+              31.6828161,
+              30.0327911,
+              0
+            ],
+            [
+              31.6834276,
+              30.0341194,
+              0
+            ],
+            [
+              31.6818076,
+              30.0342587,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "PARIS EAST‎\n",
+        "description": "Pyramids",
+        "Brochure": "https://drive.google.com/file/d/1xZ6Pq_aIzeGUsfL-I1cyANwzUXWWMvIj/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6823736,
+              30.0355023,
+              0
+            ],
+            [
+              31.6821456,
+              30.0350889,
+              0
+            ],
+            [
+              31.6829663,
+              30.0348544,
+              0
+            ],
+            [
+              31.6832801,
+              30.0354698,
+              0
+            ],
+            [
+              31.6823736,
+              30.0355023,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "OPAL business complex\n",
+        "description": "Rekaz Development",
+        "Brochure": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6821432,
+              30.0349958,
+              0
+            ],
+            [
+              31.6818588,
+              30.0343595,
+              0
+            ],
+            [
+              31.6826903,
+              30.034327,
+              0
+            ],
+            [
+              31.6829103,
+              30.0347914,
+              0
+            ],
+            [
+              31.6821432,
+              30.0349958,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Golden Tower Mall\n",
+        "description": "شركة النصر المتحدة"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6804816,
+              30.0349777,
+              0
+            ],
+            [
+              31.6802563,
+              30.0344204,
+              0
+            ],
+            [
+              31.6810127,
+              30.0344018,
+              0
+            ],
+            [
+              31.6812487,
+              30.0349127,
+              0
+            ],
+            [
+              31.6804816,
+              30.0349777,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Aurora\n",
+        "description": "Doja Developments",
+        "Brochure": "https://drive.google.com/file/d/1rSEZ7po5uM9bVkd28er1C0X2IdpyqBuS/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6832197,
+              30.036915,
+              0
+            ],
+            [
+              31.6828925,
+              30.0362835,
+              0
+            ],
+            [
+              31.6845018,
+              30.0361906,
+              0
+            ],
+            [
+              31.6849095,
+              30.0368268,
+              0
+            ],
+            [
+              31.6832197,
+              30.036915,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "IRIS Mall\n",
+        "description": "Enmaa Development",
+        "Brochure": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6846145,
+              30.0374628,
+              0
+            ],
+            [
+              31.6841585,
+              30.0375092,
+              0
+            ],
+            [
+              31.6840405,
+              30.0374071,
+              0
+            ],
+            [
+              31.683842,
+              30.0373838,
+              0
+            ],
+            [
+              31.6836221,
+              30.0373838,
+              0
+            ],
+            [
+              31.6832788,
+              30.0370263,
+              0
+            ],
+            [
+              31.6835309,
+              30.0369705,
+              0
+            ],
+            [
+              31.6843302,
+              30.036952,
+              0
+            ],
+            [
+              31.6846145,
+              30.0374628,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "FRONTGATE\n",
+        "description": "CCR Capital",
+        "Brochure": "https://drive.google.com/file/d/17UGDyGGTDyPxruO1G-VBOgWHcy0-ax5Q/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6842545,
+              30.0375386,
+              0
+            ],
+            [
+              31.6849036,
+              30.0375107,
+              0
+            ],
+            [
+              31.6850645,
+              30.0379426,
+              0
+            ],
+            [
+              31.6846354,
+              30.0379472,
+              0
+            ],
+            [
+              31.6845442,
+              30.0377893,
+              0
+            ],
+            [
+              31.6844208,
+              30.0376547,
+              0
+            ],
+            [
+              31.6842545,
+              30.0375386,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Tiffany Mall\n",
+        "description": "Pillarz Properties",
+        "Brochure": "https://drive.google.com/file/d/1xx4c0s4dwiBZmHhGU6ySiUtkmG6FdFmK/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6827042,
+              30.0375233,
+              0
+            ],
+            [
+              31.6827686,
+              30.037644,
+              0
+            ],
+            [
+              31.6828222,
+              30.0377369,
+              0
+            ],
+            [
+              31.6827364,
+              30.0379041,
+              0
+            ],
+            [
+              31.6825164,
+              30.0380341,
+              0
+            ],
+            [
+              31.681744,
+              30.0381084,
+              0
+            ],
+            [
+              31.6815025,
+              30.0376022,
+              0
+            ],
+            [
+              31.6827042,
+              30.0375233,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Elite Mall\n",
+        "description": "SAK",
+        "Brochure": "https://drive.google.com/file/d/1d1X91DMZxZBeToGQXK4dzyh-P0xWyNm5/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6814918,
+              30.037579,
+              0
+            ],
+            [
+              31.6813094,
+              30.0370728,
+              0
+            ],
+            [
+              31.6823662,
+              30.0370403,
+              0
+            ],
+            [
+              31.6826559,
+              30.0374908,
+              0
+            ],
+            [
+              31.6814918,
+              30.037579,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Souq El Dahab\n",
+        "description": "IC Group",
+        "Brochure": "https://drive.google.com/file/d/1zQvm_5mdHXQJt_edZrbwyPrbYgNI4O5f/view?usp=sharing"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6844208,
+              30.0369521,
+              0
+            ],
+            [
+              31.6850377,
+              30.0369149,
+              0
+            ],
+            [
+              31.6852523,
+              30.037384,
+              0
+            ],
+            [
+              31.6846676,
+              30.0374304,
+              0
+            ],
+            [
+              31.6844208,
+              30.0369521,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "new wave"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.6866515,
+              30.0359653,
+              0
+            ],
+            [
+              31.6855035,
+              30.0360791,
+              0
+            ],
+            [
+              31.6852889,
+              30.0356077,
+              0
+            ],
+            [
+              31.6864021,
+              30.0355148,
+              0
+            ],
+            [
+              31.6866515,
+              30.0359653,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Amron development"
+      }
+    }
+  ]
+}
