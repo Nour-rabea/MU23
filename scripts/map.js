@@ -129,10 +129,10 @@ $(window).on('load', function() {
           point['Description'] + '</b><br>' +
           (point['Image'] ? ('<img src="' + point['Image'] + '"><br>') : '') +
           (point['Layout'] ? ('<img src="' + point['Layout'] + '"><br>') : '') +
-          (point['Brochure'] ? ('<img src="' + point['Brochure'] + '"><br>') : '') +
           point['Hotline'] + '</b><br>' +
           point['Website'] + '</b><br>' +
-          point['Head Offices']);
+          point['Head Offices'] + '</b><br>' +          
+          point['Brochure']);
 
         if (layers !== undefined && layers.length !== 1) {
           marker.addTo(layers[point.Group]);
