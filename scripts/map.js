@@ -130,7 +130,8 @@ $(window).on('load', function() {
           point['Description'] + '</b><br>' +
           point['Hotline'] + '</b><br>' +
           point['Website'] + '</b><br>' +
-          point['Head Offices']);
+          point['Head Offices'] + '</b><br>' +
+          point['Brochure']);
 
         if (layers !== undefined && layers.length !== 1) {
           marker.addTo(layers[point.Group]);
