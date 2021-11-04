@@ -127,11 +127,12 @@ $(window).on('load', function() {
         var marker = L.marker([point.Latitude, point.Longitude], {icon: icon})
           .bindPopup("<b>" + point['Project'] + '</b><br>' +
           (point['Image'] ? ('<img src="' + point['Image'] + '"><br>') : '') +
+          (point['Layout'] ? ('<img src="' + point['Layout'] + '"><br>') : '') +          
           point['Description'] + '</b><br>' +
           point['Hotline'] + '</b><br>' +
-          point['Website'] + '</b><br>' +
+          point['Brochure'] + '</b><br>' +
           point['Head Offices'] + '</b><br>' +
-          point['Brochure']);
+          point['Website']);
 
         if (layers !== undefined && layers.length !== 1) {
           marker.addTo(layers[point.Group]);
