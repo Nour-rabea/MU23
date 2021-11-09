@@ -127,7 +127,6 @@ $(window).on('load', function() {
         var marker = L.marker([point.Latitude, point.Longitude], {icon: icon})
           .bindPopup("<b>" + point['Project'] + '</b><br>' +
           point['Description'] + '</b><br>' +
-          (point['Image'] ? ('<img src="' + point['Image'] + '"><br>') : '') +
           (point['Layout'] ? ('<img src="' + point['Layout'] + '"><br>') : '') +
           point['Hotline'] + '</b><br>' +
           point['Website'] + '</b><br>' +       
