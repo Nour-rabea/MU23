@@ -97,7 +97,7 @@
       "properties": {
         "name": "Aventra Mall\n",
         "description": "Emtelak",
-        "Brochure": "",
+        "Brochure": "N/A",
         "Location": "MU23 H12",
         "Description": "\"تجاري/ إداري/ طبي/ سكني يتكون من 2 مبنى ,وكل مبنى مقسم إلى 10 طوابق 2 دور للمحلات التجارية/ 8 أدوار للوحدات الإدارية/ 8 أدوار للوحدات الطبية\"",
         "Land Area": 4664,
@@ -147,8 +147,9 @@
         "name": "MARVEL MALL\n",
         "description": "Locations Development",
         "Location": "MU23 H8",
-        "Land Area": "",
-        "BUA": ""
+        "Land Area": "N/A",
+        "BUA": "N/A",
+        "Brochure": "N/A"
       }
     },
     {
@@ -232,11 +233,11 @@
       "properties": {
         "name": "EAST SIDE\n",
         "description": "Castle Development",
-        "Brochure": "",
+        "Brochure": "N/A",
         "Location": "MU23 H1",
         "Description": "",
         "Land Area": 16800,
-        "BUA": ""
+        "BUA": "N/A"
       }
     },
     {
@@ -320,11 +321,11 @@
       "properties": {
         "name": "Ivory Plaza Mall\n",
         "description": "Al Tamayoz",
-        "Brochure": "",
+        "Brochure": "N/A",
         "Location": "MU23 F14",
         "Description": "\"تجاري/ إداري/ طبي على شكل مبنيين متصلين\"",
         "Land Area": 6300,
-        "BUA": ""
+        "BUA": "N/A"
       }
     },
     {
@@ -377,7 +378,7 @@
         "Brochure": "https://drive.google.com/file/d/1gv_PXeFyrQUa1qZEoVh0-g4tGBGTWerZ/view?usp=sharing",
         "Location": "MU23 G15",
         "Land Area": 9000,
-        "BUA": ""
+        "BUA": "N/A"
       }
     },
     {
@@ -417,7 +418,7 @@
       "properties": {
         "name": "MCC Mall\n",
         "description": "Al Assema Real Estate",
-        "Brochure": "",
+        "Brochure": "N/A",
         "Location": "MU23 G11",
         "Land Area": 3500,
         "BUA": "30%"
@@ -462,8 +463,8 @@
         "description": "MBG",
         "Brochure": "https://drive.google.com/file/d/1KDhq1SeCFGwuOyJ6eFa2iqN2Hq7h_29S/view?usp=sharing",
         "Location": "MU23 G14",
-        "Land Area": "",
-        "BUA": ""
+        "Land Area": "N/A",
+        "BUA": "N/A"
       }
     },
     {
@@ -547,7 +548,7 @@
       "properties": {
         "name": "Capital Prime Mall\n",
         "description": "Royal Development",
-        "Brochure": "",
+        "Brochure": "N/A",
         "Location": "MU23 G1",
         "Description": "\"تجاري/ إداري/ طبي/ سكني 2 دور بدروم/ 7 أدوار ارضي واول مركز تسوق على مساحة 3600م الطابق الثاني وحدات طبية على مساحة 1600م  من الثالث الي الخامس وحدات اداريه على مساحة 6400م السادس والسابع وحدات سكنيه فندقيه علي مساحة 2000م بتشطيب كامل\"",
         "Land Area": 5880,
@@ -721,10 +722,10 @@
       "properties": {
         "name": "Venulet Business Estate\n",
         "description": "lagom Real Estate",
-        "Brochure": "",
+        "Brochure": "N/A",
         "Location": "MU23 E10",
         "Land Area": 9750,
-        "BUA": ""
+        "BUA": "N/A"
       }
     },
     {
@@ -840,7 +841,7 @@
         "Brochure": "https://drive.google.com/file/d/1xZ6Pq_aIzeGUsfL-I1cyANwzUXWWMvIj/view?usp=sharing",
         "Location": "MU23 D6",
         "Land Area": 26000,
-        "BUA": "",
+        "BUA": "N/A",
         "Description": ""
       }
     },
@@ -881,7 +882,7 @@
       "properties": {
         "name": "OPAL business complex\n",
         "description": "Rekaz Development",
-        "Brochure": "",
+        "Brochure": "N/A",
         "Location": "MU23 D1",
         "Land Area": 4000,
         "BUA": "30%"
@@ -927,7 +928,8 @@
         "Location": "MU23 D4",
         "Description": "\"تجاري/ إداري/ طبي بدروم+ارضي+9 طوابق  البدروم (4700م/ 110 سياره)  أول طابقين للمحلات التجارية ( 2100م) الأرضي (16 وحدة) الأول (17 وحدة) ويتم تكرار 16 وحدة في كل الطوابق الأعلى مساحة المنطقة التجارية 2,100م (ارضي +اول) مساحة المنطقة الإدارية 7,600م مساحة المنطقة الطبية 2,400م\"",
         "Land Area": 3330,
-        "BUA": "30%"
+        "BUA": "30%",
+        "Brochure": "N/A"
       }
     },
     {
@@ -1011,7 +1013,7 @@
       "properties": {
         "name": "IRIS Mall\n",
         "description": "Enmaa Development",
-        "Brochure": "",
+        "Brochure": "N/A",
         "Location": "MU23 B6",
         "Description": "\"تجاري/ إداري/ طبي 2 بدروم + أرضي + 7 أدوار 54 وحدة تجارية بنسبة تحميل 25% بالدور الارضي والاول الوحدات الإدارية والطبية بنسبة تحميل 30%. جراج 400 سيارة\"",
         "Land Area": 6720,
@@ -1131,8 +1133,8 @@
         "description": "Pillarz Properties",
         "Brochure": "https://drive.google.com/file/d/1xx4c0s4dwiBZmHhGU6ySiUtkmG6FdFmK/view?usp=sharing",
         "Location": "MU23 B2",
-        "Land Area": "",
-        "BUA": ""
+        "Land Area": "N/A",
+        "BUA": "N/A"
       }
     },
     {
@@ -1234,7 +1236,8 @@
         "Brochure": "https://drive.google.com/file/d/1zQvm_5mdHXQJt_edZrbwyPrbYgNI4O5f/view?usp=sharing",
         "Location": "MU23 A5",
         "Land Area": 8300,
-        "BUA": ""
+        "BUA": "N/A",
+        "Description": ""
       }
     },
     {
@@ -1274,8 +1277,11 @@
       "properties": {
         "name": "new wave",
         "Location": "MU23 B5",
-        "Land Area": "",
-        "BUA": ""
+        "Land Area": "N/A",
+        "BUA": "N/A",
+        "Description": "",
+        "Brochure": "N/A",
+        "description": "N/A"
       }
     },
     {
@@ -1315,8 +1321,10 @@
       "properties": {
         "name": "Amron development",
         "Location": "MU23 B9",
-        "Land Area": "",
-        "BUA": ""
+        "Land Area": "N/A",
+        "BUA": "N/A",
+        "Brochure": "N/A",
+        "description": "N/A"
       }
     },
     {
@@ -1325,8 +1333,9 @@
         "name": "Pioneer Plaza",
         "description": "Global Pioneer",
         "Location": "MU23 A10",
-        "Land Area": "",
-        "BUA": ""
+        "Land Area": "N/A",
+        "BUA": "N/A",
+        "Brochure": "N/A"
       },
       "geometry": {
         "type": "Polygon",
