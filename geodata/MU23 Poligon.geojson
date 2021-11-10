@@ -43,7 +43,8 @@
       "properties": {
         "name": "ITC NEW CAPITAL\n",
         "description": "Dahab Development",
-        "Brochure": "https://drive.google.com/file/d/19VMC3VXE0J4n3-pX8wmIOW03scHsib5Q/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/19VMC3VXE0J4n3-pX8wmIOW03scHsib5Q/view?usp=sharing",
+        "Location": "MU23 H14"
       }
     },
     {
@@ -93,7 +94,8 @@
       "properties": {
         "name": "Aventra Mall\n",
         "description": "Emtelak",
-        "Brochure": ""
+        "Brochure": "",
+        "Location": "MU23 H12"
       }
     },
     {
@@ -137,7 +139,8 @@
       },
       "properties": {
         "name": "MARVEL MALL\n",
-        "description": "Locations Development"
+        "description": "Locations Development",
+        "Location": "MU23 H8"
       }
     },
     {
@@ -177,7 +180,8 @@
       "properties": {
         "name": "Discovery Mall\n",
         "description": "Misr Alhurra",
-        "Brochure": "https://drive.google.com/file/d/1-eJZlpsJOyKkVLeaqXBCy7XKkzFhbSzk/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1-eJZlpsJOyKkVLeaqXBCy7XKkzFhbSzk/view?usp=sharing",
+        "Location": "MU23 H3"
       }
     },
     {
@@ -217,7 +221,8 @@
       "properties": {
         "name": "EAST SIDE\n",
         "description": "Castle Development",
-        "Brochure": ""
+        "Brochure": "",
+        "Location": "MU23 H1"
       }
     },
     {
@@ -257,7 +262,8 @@
       "properties": {
         "name": "LINX By\n",
         "description": "Capriole developments",
-        "Brochure": "https://drive.google.com/file/d/1NpVDlh48e3tNEBDsgunA1ieQJ_rHcSYA/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1NpVDlh48e3tNEBDsgunA1ieQJ_rHcSYA/view?usp=sharing",
+        "Location": "MU23 F13"
       }
     },
     {
@@ -297,7 +303,8 @@
       "properties": {
         "name": "Ivory Plaza Mall\n",
         "description": "Al Tamayoz",
-        "Brochure": ""
+        "Brochure": "",
+        "Location": "MU23 F14"
       }
     },
     {
@@ -347,7 +354,8 @@
       "properties": {
         "name": "Spark mall\n",
         "description": "brouq",
-        "Brochure": "https://drive.google.com/file/d/1gv_PXeFyrQUa1qZEoVh0-g4tGBGTWerZ/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1gv_PXeFyrQUa1qZEoVh0-g4tGBGTWerZ/view?usp=sharing",
+        "Location": "MU23 G15"
       }
     },
     {
@@ -387,7 +395,8 @@
       "properties": {
         "name": "MCC Mall\n",
         "description": "Al Assema Real Estate",
-        "Brochure": ""
+        "Brochure": "",
+        "Location": "MU23 M143"
       }
     },
     {
@@ -427,7 +436,8 @@
       "properties": {
         "name": "River Green\n",
         "description": "MBG",
-        "Brochure": "https://drive.google.com/file/d/1KDhq1SeCFGwuOyJ6eFa2iqN2Hq7h_29S/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1KDhq1SeCFGwuOyJ6eFa2iqN2Hq7h_29S/view?usp=sharing",
+        "Location": "MU23 G14"
       }
     },
     {
@@ -467,7 +477,8 @@
       "properties": {
         "name": "G3 Mall\n",
         "description": "United Development",
-        "Brochure": "https://drive.google.com/file/d/1JmhHzBfSYvum4xjyaURfPznQTT7DemxD/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1JmhHzBfSYvum4xjyaURfPznQTT7DemxD/view?usp=sharing",
+        "Location": "MU23 G3"
       }
     },
     {
@@ -507,7 +518,8 @@
       "properties": {
         "name": "Capital Prime Mall\n",
         "description": "Royal Development",
-        "Brochure": ""
+        "Brochure": "",
+        "Location": "MU23 G1"
       }
     },
     {
@@ -547,7 +559,8 @@
       "properties": {
         "name": "The Walk\n",
         "description": "Constructa Real Estate",
-        "Brochure": "https://drive.google.com/file/d/1BtCPWJKU5zdZIavcZFeqEzDHpR72s6mL/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1BtCPWJKU5zdZIavcZFeqEzDHpR72s6mL/view?usp=sharing",
+        "Location": "MU23 G5"
       }
     },
     {
@@ -587,7 +600,8 @@
       "properties": {
         "name": "Epic\n",
         "description": "EGY Holding",
-        "Brochure": "https://drive.google.com/file/d/1-YOqnh4hBUHwMHEFr_1RFNlaBZYXEWaC/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1-YOqnh4hBUHwMHEFr_1RFNlaBZYXEWaC/view?usp=sharing",
+        "Location": "MU23 E14"
       }
     },
     {
@@ -627,7 +641,8 @@
       "properties": {
         "name": "Zaha Mall\n",
         "description": "Home Town",
-        "Brochure": "https://drive.google.com/file/d/1Go5f8ijz2O-SK0nh2kK-ise9jYyv1yCx/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1Go5f8ijz2O-SK0nh2kK-ise9jYyv1yCx/view?usp=sharing",
+        "Location": "MU23 E15"
       }
     },
     {
@@ -667,7 +682,8 @@
       "properties": {
         "name": "Venulet Business Estate\n",
         "description": "lagom Real Estate",
-        "Brochure": ""
+        "Brochure": "",
+        "Location": "MU23 E10"
       }
     },
     {
@@ -722,7 +738,8 @@
       "properties": {
         "name": "Paris mall‎\n",
         "description": "Pyramids",
-        "Brochure": "https://drive.google.com/file/d/1pyeT7xOvJlQYNJuw0DvIdq-Nqlc005Tj/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1pyeT7xOvJlQYNJuw0DvIdq-Nqlc005Tj/view?usp=sharing",
+        "Location": "MU23 F1"
       }
     },
     {
@@ -777,7 +794,8 @@
       "properties": {
         "name": "PARIS EAST‎\n",
         "description": "Pyramids",
-        "Brochure": "https://drive.google.com/file/d/1xZ6Pq_aIzeGUsfL-I1cyANwzUXWWMvIj/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1xZ6Pq_aIzeGUsfL-I1cyANwzUXWWMvIj/view?usp=sharing",
+        "Location": "MU23 D6"
       }
     },
     {
@@ -817,7 +835,8 @@
       "properties": {
         "name": "OPAL business complex\n",
         "description": "Rekaz Development",
-        "Brochure": ""
+        "Brochure": "",
+        "Location": "MU23 D1"
       }
     },
     {
@@ -856,7 +875,8 @@
       },
       "properties": {
         "name": "Golden Tower Mall\n",
-        "description": "شركة النصر المتحدة"
+        "description": "شركة النصر المتحدة",
+        "Location": "MU23 D4"
       }
     },
     {
@@ -896,7 +916,8 @@
       "properties": {
         "name": "Aurora\n",
         "description": "Doja Developments",
-        "Brochure": "https://drive.google.com/file/d/1rSEZ7po5uM9bVkd28er1C0X2IdpyqBuS/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1rSEZ7po5uM9bVkd28er1C0X2IdpyqBuS/view?usp=sharing",
+        "Location": "MU23 C5"
       }
     },
     {
@@ -936,7 +957,8 @@
       "properties": {
         "name": "IRIS Mall\n",
         "description": "Enmaa Development",
-        "Brochure": ""
+        "Brochure": "",
+        "Location": "MU23 B6"
       }
     },
     {
@@ -996,7 +1018,8 @@
       "properties": {
         "name": "FRONTGATE\n",
         "description": "CCR Capital",
-        "Brochure": "https://drive.google.com/file/d/17UGDyGGTDyPxruO1G-VBOgWHcy0-ax5Q/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/17UGDyGGTDyPxruO1G-VBOgWHcy0-ax5Q/view?usp=sharing",
+        "Location": "MU23 B1"
       }
     },
     {
@@ -1046,7 +1069,8 @@
       "properties": {
         "name": "Tiffany Mall\n",
         "description": "Pillarz Properties",
-        "Brochure": "https://drive.google.com/file/d/1xx4c0s4dwiBZmHhGU6ySiUtkmG6FdFmK/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1xx4c0s4dwiBZmHhGU6ySiUtkmG6FdFmK/view?usp=sharing",
+        "Location": "MU23 B2"
       }
     },
     {
@@ -1101,7 +1125,8 @@
       "properties": {
         "name": "Elite Mall\n",
         "description": "SAK",
-        "Brochure": "https://drive.google.com/file/d/1d1X91DMZxZBeToGQXK4dzyh-P0xWyNm5/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1d1X91DMZxZBeToGQXK4dzyh-P0xWyNm5/view?usp=sharing",
+        "Location": "MU23 A3"
       }
     },
     {
@@ -1141,7 +1166,8 @@
       "properties": {
         "name": "Souq El Dahab\n",
         "description": "IC Group",
-        "Brochure": "https://drive.google.com/file/d/1zQvm_5mdHXQJt_edZrbwyPrbYgNI4O5f/view?usp=sharing"
+        "Brochure": "https://drive.google.com/file/d/1zQvm_5mdHXQJt_edZrbwyPrbYgNI4O5f/view?usp=sharing",
+        "Location": "MU23 A5"
       }
     },
     {
@@ -1179,7 +1205,8 @@
         ]
       },
       "properties": {
-        "name": "new wave"
+        "name": "new wave",
+        "Location": "MU23 B5"
       }
     },
     {
@@ -1217,7 +1244,43 @@
         ]
       },
       "properties": {
-        "name": "Amron development"
+        "name": "Amron development",
+        "Location": "MU23 B9"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pioneer Plaza",
+        "description": "Global Pioneer",
+        "Location": "MU23 A10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              31.682381629943848,
+              30.03687916724905
+            ],
+            [
+              31.681265830993652,
+              30.036911675207932
+            ],
+            [
+              31.680970788002014,
+              30.036372970513153
+            ],
+            [
+              31.68200612068176,
+              30.036294022165304
+            ],
+            [
+              31.682381629943848,
+              30.03687916724905
+            ]
+          ]
+        ]
       }
     }
   ]
