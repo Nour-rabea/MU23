@@ -378,7 +378,7 @@
         "Brochure": "https://drive.google.com/file/d/1gv_PXeFyrQUa1qZEoVh0-g4tGBGTWerZ/view?usp=sharing",
         "Location": "MU23 G15",
         "Land Area": 9000,
-        "BUA": "N/A"
+        "BUA": "30%"
       }
     },
     {
@@ -459,12 +459,17 @@
         ]
       },
       "properties": {
-        "name": "River Green\n",
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "River Green",
         "description": "MBG",
         "Brochure": "https://drive.google.com/file/d/1KDhq1SeCFGwuOyJ6eFa2iqN2Hq7h_29S/view?usp=sharing",
         "Location": "MU23 G14",
-        "Land Area": "N/A",
-        "BUA": "N/A"
+        "Land Area": 3500,
+        "BUA": "30%"
       }
     },
     {
@@ -885,7 +890,8 @@
         "Brochure": "N/A",
         "Location": "MU23 D1",
         "Land Area": 4000,
-        "BUA": "30%"
+        "BUA": 200000,
+        "Description": ""
       }
     },
     {
@@ -1333,7 +1339,7 @@
         "name": "Pioneer Plaza",
         "description": "Global Pioneer",
         "Location": "MU23 A10",
-        "Land Area": "N/A",
+        "Land Area": 5330,
         "BUA": "N/A",
         "Brochure": "N/A"
       },
