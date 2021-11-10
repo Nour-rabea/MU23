@@ -46,7 +46,8 @@
         "Brochure": "https://drive.google.com/file/d/19VMC3VXE0J4n3-pX8wmIOW03scHsib5Q/view?usp=sharing",
         "Location": "MU23 H14",
         "Description": "\"تجاري/ إداري/ سكني أرضي +9 أدوار الوحدات التجارية 35 المكاتب الإدارية 100 أماكن الركن 800 3000م للدور الواحد جراج 16000م \"",
-        "Land Area": "8,000"
+        "Land Area": "8,000",
+        "BUA": "46,000"
       }
     },
     {
@@ -99,7 +100,8 @@
         "Brochure": "",
         "Location": "MU23 H12",
         "Description": "\"تجاري/ إداري/ طبي/ سكني يتكون من 2 مبنى ,وكل مبنى مقسم إلى 10 طوابق 2 دور للمحلات التجارية/ 8 أدوار للوحدات الإدارية/ 8 أدوار للوحدات الطبية\"",
-        "Land Area": "4,664"
+        "Land Area": "4,664",
+        "BUA": "11,000"
       }
     },
     {
@@ -145,7 +147,8 @@
         "name": "MARVEL MALL\n",
         "description": "Locations Development",
         "Location": "MU23 H8",
-        "Land Area": ""
+        "Land Area": "",
+        "BUA": ""
       }
     },
     {
@@ -188,7 +191,8 @@
         "Brochure": "https://drive.google.com/file/d/1-eJZlpsJOyKkVLeaqXBCy7XKkzFhbSzk/view?usp=sharing",
         "Location": "MU23 H3",
         "Description": "\"تجاري/ إداري/ طبي 2 بدروم وأرضي و 8 أدوار الأرضي والأول والثاني تجاري من الثالث حتى السادس طبي السابع والثامن اداري\"",
-        "Land Area": "6,762"
+        "Land Area": "6,762",
+        "BUA": "30%"
       }
     },
     {
@@ -231,7 +235,8 @@
         "Brochure": "",
         "Location": "MU23 H1",
         "Description": "",
-        "Land Area": "16,800"
+        "Land Area": "16,800",
+        "BUA": ""
       }
     },
     {
@@ -274,7 +279,8 @@
         "Brochure": "https://drive.google.com/file/d/1NpVDlh48e3tNEBDsgunA1ieQJ_rHcSYA/view?usp=sharing",
         "Location": "MU23 F13",
         "Description": "\"تجاري/ إداري/ طبي 2 بدروم (جراج 304 سيارة)+ ارضي+ 9 ادوار مساحة الدور 2,290م الأرضي والأول وحدات تجارية. من السابع إلى التاسع للوحدات الإدارية\"",
-        "Land Area": "7,635"
+        "Land Area": "7,635",
+        "BUA": "30%"
       }
     },
     {
@@ -317,7 +323,8 @@
         "Brochure": "",
         "Location": "MU23 F14",
         "Description": "\"تجاري/ إداري/ طبي على شكل مبنيين متصلين\"",
-        "Land Area": "6,300"
+        "Land Area": "6,300",
+        "BUA": ""
       }
     },
     {
@@ -369,7 +376,8 @@
         "description": "brouq",
         "Brochure": "https://drive.google.com/file/d/1gv_PXeFyrQUa1qZEoVh0-g4tGBGTWerZ/view?usp=sharing",
         "Location": "MU23 G15",
-        "Land Area": "9,000"
+        "Land Area": "9,000",
+        "BUA": ""
       }
     },
     {
@@ -411,7 +419,8 @@
         "description": "Al Assema Real Estate",
         "Brochure": "",
         "Location": "MU23 G11",
-        "Land Area": "3,500"
+        "Land Area": "3,500",
+        "BUA": "30%"
       }
     },
     {
@@ -453,7 +462,8 @@
         "description": "MBG",
         "Brochure": "https://drive.google.com/file/d/1KDhq1SeCFGwuOyJ6eFa2iqN2Hq7h_29S/view?usp=sharing",
         "Location": "MU23 G14",
-        "Land Area": ""
+        "Land Area": "",
+        "BUA": ""
       }
     },
     {
@@ -496,7 +506,8 @@
         "Brochure": "https://drive.google.com/file/d/1JmhHzBfSYvum4xjyaURfPznQTT7DemxD/view?usp=sharing",
         "Location": "MU23 G3",
         "Description": "\"تجاري/ إداري/ طبي 3 بدروم+ أرضي + 9 أدوار 31 وحدة تجارية/ 40 وحدة ادارية/ 88 وحدة طبيه/ جراج 270 سيارة\"",
-        "Land Area": "11,050"
+        "Land Area": "11,050",
+        "BUA": "30%"
       }
     },
     {
@@ -539,7 +550,8 @@
         "Brochure": "",
         "Location": "MU23 G1",
         "Description": "\"تجاري/ إداري/ طبي/ سكني 2 دور بدروم/ 7 أدوار ارضي واول مركز تسوق على مساحة 3600م الطابق الثاني وحدات طبية على مساحة 1600م  من الثالث الي الخامس وحدات اداريه على مساحة 6400م السادس والسابع وحدات سكنيه فندقيه علي مساحة 2000م بتشطيب كامل\"",
-        "Land Area": "5,880"
+        "Land Area": "5,880",
+        "BUA": "40%"
       }
     },
     {
@@ -581,7 +593,8 @@
         "description": "Constructa Real Estate",
         "Brochure": "https://drive.google.com/file/d/1BtCPWJKU5zdZIavcZFeqEzDHpR72s6mL/view?usp=sharing",
         "Location": "MU23 G5",
-        "Land Area": "13,860"
+        "Land Area": "13,860",
+        "BUA": "40%"
       }
     },
     {
@@ -624,7 +637,8 @@
         "Brochure": "https://drive.google.com/file/d/1-YOqnh4hBUHwMHEFr_1RFNlaBZYXEWaC/view?usp=sharing",
         "Location": "MU23 E14",
         "Description": "\"تجاري/ إداري/ طبي 2 بدروم (6500م/ 253 سيارة) + أرضي + 7 أدوار\"",
-        "Land Area": "6,500"
+        "Land Area": "6,500",
+        "BUA": "32,156"
       }
     },
     {
@@ -666,7 +680,8 @@
         "description": "Home Town",
         "Brochure": "https://drive.google.com/file/d/1Go5f8ijz2O-SK0nh2kK-ise9jYyv1yCx/view?usp=sharing",
         "Location": "MU23 E15",
-        "Land Area": "7,140"
+        "Land Area": "7,140",
+        "BUA": "50%"
       }
     },
     {
@@ -708,7 +723,8 @@
         "description": "lagom Real Estate",
         "Brochure": "",
         "Location": "MU23 E10",
-        "Land Area": "9,750"
+        "Land Area": "9,750",
+        "BUA": ""
       }
     },
     {
@@ -765,7 +781,8 @@
         "description": "Pyramids",
         "Brochure": "https://drive.google.com/file/d/1pyeT7xOvJlQYNJuw0DvIdq-Nqlc005Tj/view?usp=sharing",
         "Location": "MU23 F1",
-        "Land Area": "21,000"
+        "Land Area": "21,000",
+        "BUA": "20%"
       }
     },
     {
@@ -822,7 +839,8 @@
         "description": "Pyramids",
         "Brochure": "https://drive.google.com/file/d/1xZ6Pq_aIzeGUsfL-I1cyANwzUXWWMvIj/view?usp=sharing",
         "Location": "MU23 D6",
-        "Land Area": "26,000"
+        "Land Area": "26,000",
+        "BUA": ""
       }
     },
     {
@@ -864,7 +882,8 @@
         "description": "Rekaz Development",
         "Brochure": "",
         "Location": "MU23 D1",
-        "Land Area": "4,000"
+        "Land Area": "4,000",
+        "BUA": "30%"
       }
     },
     {
@@ -906,7 +925,8 @@
         "description": "شركة النصر المتحدة",
         "Location": "MU23 D4",
         "Description": "\"تجاري/ إداري/ طبي بدروم+ارضي+9 طوابق  البدروم (4700م/ 110 سياره)  أول طابقين للمحلات التجارية ( 2100م) الأرضي (16 وحدة) الأول (17 وحدة) ويتم تكرار 16 وحدة في كل الطوابق الأعلى مساحة المنطقة التجارية 2,100م (ارضي +اول) مساحة المنطقة الإدارية 7,600م مساحة المنطقة الطبية 2,400م\"",
-        "Land Area": "3,330"
+        "Land Area": "3,330",
+        "BUA": "30%"
       }
     },
     {
@@ -949,7 +969,8 @@
         "Brochure": "https://drive.google.com/file/d/1rSEZ7po5uM9bVkd28er1C0X2IdpyqBuS/view?usp=sharing",
         "Location": "MU23 C5",
         "Description": "\"تجاري/ إداري/ طبي - 60,000 وحدة - مساحة الدور 1800 م2 3 بدروم وطابق أرضي مع 9 أدوار ورووف كبير جراج السيارات: 3 طوابق تحت الأرض (بمساحة 18,900 م2) من الدور الأرضي إلى الثاني: منطقة فود كورت ومطاعم وبنك وصيدلية ومتجر تجزئة من الدور الرابع إلى السادس: عيادات كاملة التشطيب مع التكييفات من الدور السابع إلى التاسع: مكاتب إدارية كاملة التشطيب مع أجهزة تكييف على الرووف: سكاي لاونج، حمام سباحة لامتناهي (إنفينيتي بول)، جيم، سبا\"",
-        "Land Area": "6,000"
+        "Land Area": "6,000",
+        "BUA": "30%"
       }
     },
     {
@@ -992,7 +1013,8 @@
         "Brochure": "",
         "Location": "MU23 B6",
         "Description": "\"تجاري/ إداري/ طبي 2 بدروم + أرضي + 7 أدوار 54 وحدة تجارية بنسبة تحميل 25% بالدور الارضي والاول الوحدات الإدارية والطبية بنسبة تحميل 30%. جراج 400 سيارة\"",
-        "Land Area": "6,720"
+        "Land Area": "6,720",
+        "BUA": "20,400"
       }
     },
     {
@@ -1055,7 +1077,8 @@
         "Brochure": "https://drive.google.com/file/d/17UGDyGGTDyPxruO1G-VBOgWHcy0-ax5Q/view?usp=sharing",
         "Location": "MU23 B1",
         "Description": "\"تجاري/ إداري/ طبي/ سكني ارضي +7 أدوار التجاري أرضي +اول +ثاني. الاداري و الطبي من الدور الثالث الى الدور السادس و لكل منهم مدخل خاص. سكني فندقي بالدور السابع\"",
-        "Land Area": "7,140"
+        "Land Area": "7,140",
+        "BUA": "30%"
       }
     },
     {
@@ -1107,7 +1130,8 @@
         "description": "Pillarz Properties",
         "Brochure": "https://drive.google.com/file/d/1xx4c0s4dwiBZmHhGU6ySiUtkmG6FdFmK/view?usp=sharing",
         "Location": "MU23 B2",
-        "Land Area": ""
+        "Land Area": "",
+        "BUA": ""
       }
     },
     {
@@ -1165,7 +1189,8 @@
         "Brochure": "https://drive.google.com/file/d/1d1X91DMZxZBeToGQXK4dzyh-P0xWyNm5/view?usp=sharing",
         "Location": "MU23 A3",
         "Description": "\"تجاري/ إداري/ طبي يتكون من عدد 2 مبني (A & B) 230 وحدة عقارية (48 وحدة تجارية بمساحة 4340م / 182 وحدة طبية وإدارية بمساحة 12.548م) جراج مكون من طابقين تحت الأرض (230 مكان للسيارات) +  7 طوابق + طابق علوي سكاي لاونج\"",
-        "Land Area": "5,500"
+        "Land Area": "5,500",
+        "BUA": "16,000"
       }
     },
     {
@@ -1207,7 +1232,8 @@
         "description": "IC Group",
         "Brochure": "https://drive.google.com/file/d/1zQvm_5mdHXQJt_edZrbwyPrbYgNI4O5f/view?usp=sharing",
         "Location": "MU23 A5",
-        "Land Area": "8,300"
+        "Land Area": "8,300",
+        "BUA": ""
       }
     },
     {
@@ -1247,7 +1273,8 @@
       "properties": {
         "name": "new wave",
         "Location": "MU23 B5",
-        "Land Area": ""
+        "Land Area": "",
+        "BUA": ""
       }
     },
     {
@@ -1287,7 +1314,8 @@
       "properties": {
         "name": "Amron development",
         "Location": "MU23 B9",
-        "Land Area": ""
+        "Land Area": "",
+        "BUA": ""
       }
     },
     {
@@ -1296,7 +1324,8 @@
         "name": "Pioneer Plaza",
         "description": "Global Pioneer",
         "Location": "MU23 A10",
-        "Land Area": ""
+        "Land Area": "",
+        "BUA": ""
       },
       "geometry": {
         "type": "Polygon",
