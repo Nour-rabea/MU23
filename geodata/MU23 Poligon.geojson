@@ -147,8 +147,8 @@
         "name": "MARVEL MALL\n",
         "description": "Locations Development",
         "Location": "MU23 H8",
-        "Land Area": "N/A",
-        "BUA": "N/A",
+        "Land Area": 3450,
+        "BUA": "30%",
         "Brochure": "N/A",
         "Description": "\"تجاري/ إداري/ طبي جراج 200 سيارة من الأرضي إلى الثالث تجاري من الرابع الي السابع اداري\""
       }
@@ -238,7 +238,7 @@
         "Location": "MU23 H1",
         "Description": "",
         "Land Area": 16800,
-        "BUA": "N/A"
+        "BUA": "30%"
       }
     },
     {
@@ -326,7 +326,7 @@
         "Location": "MU23 F14",
         "Description": "\"تجاري/ إداري/ طبي على شكل مبنيين متصلين\"",
         "Land Area": 6300,
-        "BUA": "N/A"
+        "BUA": "30%"
       }
     },
     {
@@ -736,7 +736,7 @@
         "Brochure": "N/A",
         "Location": "MU23 E10",
         "Land Area": 9750,
-        "BUA": "N/A",
+        "BUA": "30%",
         "Description": "\"تجاري/ إداري/ طبي يتكون من مبنيين متصلين على قطعة أرض ارتفاعها 12م عن سطح الأرض طبي من الثالث حتى التاسع مبنى 1 إداري من الثالث الى التاسع مبنى 2 تجاري (أرضي+ وأول+ وثاني) جراج سيارات يتكون من 2 دور\""
       }
     },
@@ -854,7 +854,7 @@
         "Brochure": "https://drive.google.com/file/d/1xZ6Pq_aIzeGUsfL-I1cyANwzUXWWMvIj/view?usp=sharing",
         "Location": "MU23 D6",
         "Land Area": 26000,
-        "BUA": "N/A",
+        "BUA": "30%",
         "Description": "\"تجاري / إداري أرضي + 11 دور الأرضي إلي الثالث (تجاري) الرابع الي التاسع (إداري) العاشر و الحادي عشر (فندقي)\""
       }
     },
@@ -1147,8 +1147,8 @@
         "description": "Pillarz Properties",
         "Brochure": "https://drive.google.com/file/d/1xx4c0s4dwiBZmHhGU6ySiUtkmG6FdFmK/view?usp=sharing",
         "Location": "MU23 B2",
-        "Land Area": "N/A",
-        "BUA": "N/A",
+        "Land Area": 5426,
+        "BUA": "30%",
         "Description": "\"تجاري/ إداري/ طبي أرضي + 8 ادوار من الأرضي إلى الثاني وحدات تجارية من الثالث إلى السابع وحدات إدارية\""
       }
     },
@@ -1251,7 +1251,7 @@
         "Brochure": "https://drive.google.com/file/d/1zQvm_5mdHXQJt_edZrbwyPrbYgNI4O5f/view?usp=sharing",
         "Location": "MU23 A5",
         "Land Area": 8300,
-        "BUA": "N/A",
+        "BUA": "30%",
         "Description": "\"٨ طوابق ٣ طوابق مخصصة للمكاتب الإدارية و ٥ للنشاطات التجارية\""
       }
     },
@@ -1350,7 +1350,7 @@
         "description": "Global Pioneer",
         "Location": "MU23 A10",
         "Land Area": 5330,
-        "BUA": "N/A",
+        "BUA": "30%",
         "Brochure": "N/A",
         "Description": "\"تجاري/ إداري/ طبي دورين تحت الأرض جراج + أرضي، + 7 أدوار التجاري في الدور الأرضي بارتفاع 5م الطبي في الدور الأول (مركز طبي ضخم به كافة التخصصات) عيادات طبية في الدورين الثاني والثالث الإداري في الأدوار الرابع+الخامس+والسادس وأخيرًا الدور السابع والأخير يضم وحدات متنوعة منها ما هو مخصص للعاملين من أجل أخذ قسط من الراحة ومنها مكاتب إدارية + بالإضافة إلى قاعة كبيرة للمؤتمرات\""
       },
