@@ -747,7 +747,7 @@ $(window).on('load', function() {
     console.log(ga)
     if ( ga && ga.length >= 10 ) {
       var gaScript = document.createElement('script');
-      gaScript.setAttribute('src','https://www.googletagmanager.com/gtag/js?id=' + ga);
+      gaScript.setAttribute('src','' + ga);
       document.head.appendChild(gaScript);
   
       window.dataLayer = window.dataLayer || [];
