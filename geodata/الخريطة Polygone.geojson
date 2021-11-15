@@ -747,7 +747,8 @@
         "fill": "#f5f79c",
         "fill-opacity": 0.5,
         "Name": "Government District",
-        "Area": 1173.59
+        "Area": 1173.59,
+        "image": ""
       },
       "geometry": {
         "type": "Polygon",
@@ -826,7 +827,7 @@
         "fill": "#f5f79c",
         "fill-opacity": 0.5,
         "Name": "CBD",
-        "Area": 218.13
+        "Area": 195
       },
       "geometry": {
         "type": "Polygon",
