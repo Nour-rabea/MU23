@@ -241,7 +241,7 @@
         "Brochure": "N/A",
         "Location": "MU23 H1",
         "Description": "",
-        "Land Area": 16800,
+        "Land Area": "",
         "BUA": "30%",
         "Consulting": "N/A"
       }
@@ -1280,96 +1280,6 @@
         "BUA": "30%",
         "Description": "\"٨ طوابق ٣ طوابق مخصصة للمكاتب الإدارية و ٥ للنشاطات التجارية\"",
         "Consulting": "IC Group Design"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              31.6844208,
-              30.0369521,
-              0
-            ],
-            [
-              31.6850377,
-              30.0369149,
-              0
-            ],
-            [
-              31.6852523,
-              30.037384,
-              0
-            ],
-            [
-              31.6846676,
-              30.0374304,
-              0
-            ],
-            [
-              31.6844208,
-              30.0369521,
-              0
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "new wave",
-        "Location": "MU23 B5",
-        "Land Area": "N/A",
-        "BUA": "N/A",
-        "Description": "",
-        "Brochure": "N/A",
-        "description": "N/A",
-        "Consulting": "N/A"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              31.6866515,
-              30.0359653,
-              0
-            ],
-            [
-              31.6855035,
-              30.0360791,
-              0
-            ],
-            [
-              31.6852889,
-              30.0356077,
-              0
-            ],
-            [
-              31.6864021,
-              30.0355148,
-              0
-            ],
-            [
-              31.6866515,
-              30.0359653,
-              0
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "Amron development",
-        "Location": "MU23 B9",
-        "Land Area": "N/A",
-        "BUA": "N/A",
-        "Brochure": "N/A",
-        "description": "N/A",
-        "Description": "",
-        "Consulting": "N/A"
       }
     },
     {
