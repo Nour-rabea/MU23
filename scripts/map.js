@@ -254,7 +254,7 @@ $(window).on('load', function() {
         paging: true,
         scrollCollapse: true,
         scrollY: 'calc(' + tableHeight + 'vh - 40px)',
-        info: true,
+        info: false,
         searching: false,
         columns: generateColumnsArray(),
       });
